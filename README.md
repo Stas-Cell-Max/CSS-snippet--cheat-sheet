@@ -1,5 +1,3 @@
-A webpage containing a compilation of CSS code snippets offers a more effective approach to learning CSS compared to creating a traditional CSS knowledge repository.
-
 
 
 # CSS Snippet Cheat Sheet Webpage
