@@ -6,6 +6,17 @@
 
 This is a webpage containing a compilation of CSS code snippets offers a more effective approach to learning CSS compared to creating a traditional CSS knowledge repository. It contains notes on HTML, CSS.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [Contributing](#contributing)
+- [License](#license)
+- [Credits](#credits)
+- [Deployment](#deployment)
+
+
 ## Installation
 
 N/A
